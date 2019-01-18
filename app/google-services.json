@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "246771749351",
+    "firebase_url": "https://meu-projeto-ifpe.firebaseio.com",
+    "project_id": "meu-projeto-ifpe",
+    "storage_bucket": "meu-projeto-ifpe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246771749351:android:402042bb76e7e5e4",
+        "android_client_info": {
+          "package_name": "ifpe.com.br.meuprojetofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246771749351-cprm6v3tro834alo7tfq80he76sfre69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ifpe.com.br.meuprojetofirebase",
+            "certificate_hash": "e8dbf0d2af4a444844962414dbb1a43283fbcc42"
+          }
+        },
+        {
+          "client_id": "246771749351-2irsp77agm7uhpjaat3v9daqi0ogtnrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiv8WGIxNeV-xaCdcofSLAOUOm5pEhp_A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246771749351-2irsp77agm7uhpjaat3v9daqi0ogtnrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
